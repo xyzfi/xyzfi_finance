@@ -1,5 +1,5 @@
 {
-  "name": "xyz_finance",
+  "name": "xyzfi_finance",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -63,5 +63,6 @@
     "gh-pages": "^3.1.0",
     "husky": "^4.2.5"
   },
-  "homepage": "https://xyzfi.github.io/xyz_finance"
+  "homepage": "https://xyzfi.github.io/xyzfi_finance"
+  
 }
