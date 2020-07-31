@@ -1,0 +1,34 @@
+#pool
+1. y pool: 
+2. dai/zfi pool: https://pools.balancer.exchange/#/pool/0xBe0511A7BFE956D63f4B0e49322057A88f27C09A
+
+# rewards plan
+1. ypool: 2400 xyzFi over 14 days
+2. bal pool: 2400 xyzFi over 14 days
+3. owner has: 200 xyzFi
+
+# you can buy at uniswap by adding the following address
+1. xyzFi address: 0xDd8Dae77b957baC1269e8C34FEaDDdE42CC9A0bd
+
+#address
+1. deployer: 0x3d00a4d220D5C8DDA7c9374d09e1c5AD48875439
+2. xyzFi: 0xDd8Dae77b957baC1269e8C34FEaDDdE42CC9A0bd
+3. yCRV pool rewards: 0x1d05bEE1313409fF88E2D5dBAB4a270ba779bfe1
+4. bpt token contract: 0xBe0511A7BFE956D63f4B0e49322057A88f27C09A
+5. bal pool rewards: 0xAA05BFB83B5A2a7AfdC79A87eE5eea2f5C9921a2
+6. uniswap pool: 0xA8cC72618E439981E60F63a5FE3392a2E2380B83
+
+#transaction
+1. xyzFi contract: 0xfc7cf3a377350711791c8d47c0ca43408594b8f8a0bef26454ae6775ac01e58a
+2. addMinter: 0x3690041005e8bf07ab5df99874334e0110eec247b10e2b909817f7488a278b12 
+3. mint 5k for uniswap: 0xac0d3a47a9dc22be1e81d0df18c8279ca4f4bdecbfc306caa8231d728ef46773
+4. yCRV pool: 0x465774bf13a32ca25bdb2ef98086533cb3a9bf014c65ead94e020bc22d816a40
+5. ypool setRewardDistribution: 0x4854a1452e067ae4d87a2e5547165d017ea45310294b5afd160d3dce326255c5
+6. mint 2.4k to yCRV pool rewards contract: 0x298b93bd8d1ed231e6c60bbe34c3bec3218873eb28f1e5bfbee3959e65f16497
+7. bal pool: 0xf74cd5925bb73e67b8a87e5e81f2aa3f1d4b7d468152aa64588947a34abfeeef
+8. bal pool setRewardDistribution: 0x5e382aba392ab090b813615483956e1cb219b9d5368efb9da0710a9de6fba62a 
+9. mint 2.4k to bal pool rewards contract: 0xb49854aefb4aa2a426e3e6cabf0a7a5c53046133adf0f11b82c5ea160ed8727b
+10. mint 200 to owner: 0x9a743ebde1a1712d1122fa5188e71db0c5ced1497d1e01c73d9b3f989a771d1a
+
+#remove ownerships
+1. 
