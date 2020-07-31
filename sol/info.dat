@@ -30,5 +30,13 @@
 9. mint 2.4k to bal pool rewards contract: 0xb49854aefb4aa2a426e3e6cabf0a7a5c53046133adf0f11b82c5ea160ed8727b
 10. mint 200 to owner: 0x9a743ebde1a1712d1122fa5188e71db0c5ced1497d1e01c73d9b3f989a771d1a
 
+11. nofityRewardAmount: 0x939d152c4d5f25f59bb363af8a0b39963ce07ab8c2489728330c250412773231 
+12. nofityRewardAmount: 0x3ada2fe86dba79cac87a1c1c4502dbb0f2a1f4a63185d977fa8e18fca366720a 
+
 #remove ownerships
-1. 
+1. setRewardDistribution to 0: 0x7d2d29c1fb3adf9b7365da6cb25d6329bc9257d751ea8ff50389440a05889ed1
+2. setRewardDistribution to 0: 0xc48cc980ae2c2e16d745c7661b536152da29bdabe140b4ce49d2eecf78151a92 
+3. renounceOwnership: 0xc9f0a61c1c17f623d3aa927b225eefc8d57cc25e0df6d3f65196caf2894872df 
+4. renounceOwnership: 0x43fff76a9c362525b55c22658a4c5cb420fd634f6be4cc6cb147d0afa509d0d0 
+5. removeMinter: 0xcc78f844a12f8d02cc384628637168e5298bd60da09a2231a3416ecd07e1f3d9 
+6. setGovernance to 0: 0x82dc6916ef18fc62963f78598f61625e53a226526fc78eb59c1325797d08d3c2 
